@@ -1,0 +1,8 @@
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user
+logs
+ResultsMerfish
+de_plots
+data
